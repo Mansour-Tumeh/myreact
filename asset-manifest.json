@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "Mansour-Tumeh@github.io/myreact/static/css/main.b100e6da.chunk.css",
+    "main.js": "Mansour-Tumeh@github.io/myreact/static/js/main.963aa7e6.chunk.js",
+    "main.js.map": "Mansour-Tumeh@github.io/myreact/static/js/main.963aa7e6.chunk.js.map",
+    "runtime-main.js": "Mansour-Tumeh@github.io/myreact/static/js/runtime-main.ae3f9d4d.js",
+    "runtime-main.js.map": "Mansour-Tumeh@github.io/myreact/static/js/runtime-main.ae3f9d4d.js.map",
+    "static/js/2.89e95031.chunk.js": "Mansour-Tumeh@github.io/myreact/static/js/2.89e95031.chunk.js",
+    "static/js/2.89e95031.chunk.js.map": "Mansour-Tumeh@github.io/myreact/static/js/2.89e95031.chunk.js.map",
+    "index.html": "Mansour-Tumeh@github.io/myreact/index.html",
+    "precache-manifest.d292455ca87cf88a6896f6a419626cb6.js": "Mansour-Tumeh@github.io/myreact/precache-manifest.d292455ca87cf88a6896f6a419626cb6.js",
+    "service-worker.js": "Mansour-Tumeh@github.io/myreact/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "Mansour-Tumeh@github.io/myreact/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "Mansour-Tumeh@github.io/myreact/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae3f9d4d.js",
+    "static/js/2.89e95031.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.963aa7e6.chunk.js"
+  ]
+}
